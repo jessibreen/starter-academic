@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Civic, Citizen and Grassroots Science: Towards a Transformative Scientific Research Model"
-authors: [Don Blair, Jessica Breen, Shannon Dosemagen, Mathew Lippincott", Liz Barry]
+authors: [Don Blair, Jessica Breen, Shannon Dosemagen, Mathew Lippincott, Liz Barry]
 date: 2013-01-01T22:08:31-05:00
 doi: ""
 
@@ -66,4 +66,14 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
----
+#---
+
+#{{% callout note %}}
+#Click the *Cite* button above to demo the feature to enable visitors to import publication #metadata into their reference management software.
+#{{% /callout %}}
+
+#{{% callout note %}}
+#Create your slides in Markdown - click the *Slides* button to check out the example.
+#{{% /callout %}}
+
+#Supplementary notes can be added here, including [code, math, and images](https://wowchemy.#com/docs/writing-markdown-latex/).
