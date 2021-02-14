@@ -32,7 +32,7 @@ education:
   - course: MS in Environmental Studies
     institution: The College of Charleston
     year: 
-  - course: BA in Poltical Science
+  - course: BA in Political Science
     institution: University of South Carolina
     year: 
 
