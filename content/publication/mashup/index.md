@@ -1,22 +1,22 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Civic, Citizen and Grassroots Science: Towards a Transformative Scientific Research Model"
-authors: [Don Blair, Jessica Breen, Shannon Dosemagen, Mathew Lippincott, Liz Barry]
-date: 2013-01-01T22:08:31-05:00
+title: "Mashup"
+authors: [Matthew Zook, Jessica Breen]
+date: 2017-01-01T22:31:08-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: 2021-02-13T22:08:31-05:00
+#publishDate: 2021-02-13T22:31:08-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Accountability Technologies: Tools for Asking Hard Questions*. D Offenhuber and K Schechtner, Eds. Vienna: Ambra Verlag"
+publication: "*The International Encyclopedia of Geography: People, the Earth, Environment, and Technology*. D RIchardson, N Castree, M Goodchild, W Liu, A Kobayashi, & R Marston, Eds. Hoboken, NJ: Wiley/AAG"
 publication_short: ""
 
 abstract: ""

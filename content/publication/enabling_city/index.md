@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Civic, Citizen and Grassroots Science: Towards a Transformative Scientific Research Model"
-authors: [Don Blair, Jessica Breen, Shannon Dosemagen, Mathew Lippincott, Liz Barry]
-date: 2013-01-01T22:08:31-05:00
+title: "Democratizing Environmental Research"
+authors: [Shannon Dosemagen, Jessica Breen, Don Blair]
+date: 2013-01-01T22:31:01-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: 2021-02-13T22:08:31-05:00
+#publishDate: 2021-02-13T22:31:01-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Accountability Technologies: Tools for Asking Hard Questions*. D Offenhuber and K Schechtner, Eds. Vienna: Ambra Verlag"
+publication: "*Enabling City: enhancing creative community resilience*. Vol. 2., ed. C Camponeschi"
 publication_short: ""
 
 abstract: ""

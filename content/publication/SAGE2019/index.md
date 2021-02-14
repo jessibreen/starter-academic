@@ -1,13 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Civic, Citizen and Grassroots Science: Towards a Transformative Scientific Research Model"
-authors: [Don Blair, Jessica Breen, Shannon Dosemagen, Mathew Lippincott, Liz Barry]
-date: 2013-01-01T22:08:31-05:00
+title: "Expanding Cartographic Practices in the Social Sciences"
+authors: [Innisfree McKinnon, Jessica Breen]
+date: 2019-12-01T22:31:27-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: 2021-02-13T22:08:31-05:00
+publishDate: 2021-02-13T22:31:27-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -16,7 +16,7 @@ doi: ""
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Accountability Technologies: Tools for Asking Hard Questions*. D Offenhuber and K Schechtner, Eds. Vienna: Ambra Verlag"
+publication: "*The SAGE Handbook of Visual Research Methods*, 2nd Ed. L Pauwels & D Mannay, Eds. SAGE Publications"
 publication_short: ""
 
 abstract: ""
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-visual-research-methods/book250969#description"
 url_video:
 
 # Featured image

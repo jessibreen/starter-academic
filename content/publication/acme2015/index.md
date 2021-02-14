@@ -1,25 +1,25 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Civic, Citizen and Grassroots Science: Towards a Transformative Scientific Research Model"
-authors: [Don Blair, Jessica Breen, Shannon Dosemagen, Mathew Lippincott, Liz Barry]
-date: 2013-01-01T22:08:31-05:00
+title: "Mapping Grassroots: Geodata and the structure of community-led open environmental science"
+authors: [Jessica Breen, Shannon Dosemagen, Jeffrey Warren, Mathew Lippincott]
+date: 2015-09-26T22:30:25-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: 2021-02-13T22:08:31-05:00
+#publishDate: 2021-02-13T22:30:25-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Accountability Technologies: Tools for Asking Hard Questions*. D Offenhuber and K Schechtner, Eds. Vienna: Ambra Verlag"
+publication: "*ACME: An International Journal for Critical Geographies*, 4 (3), 849-73"
 publication_short: ""
 
-abstract: ""
+abstract: "Grassroots Mapping, an early project of the Public Laboratory for Open Technology and Science, began in 2010 in Lima, Peru. Using balloons and kites to launch cameras as “community satellites”, grassroots mappers around the world have engaged in local-level, activist remote sensing -- building upon the critical cartography and participatory mapping movements to investigate local environmental and social issues with inexpensive “Do-It-Yourself” technologies. This article discusses community participation models and the importance of high-level participation in avoiding what we term crowdharvesting -- a widespread trend in contemporary citizen science projects where participants are limited to categorizing data or logging observations. By contrast, through the process of first-hand data creation and analysis, community researchers in the Public Lab network have attempted to build expertise, critique existing data collection regimes, and reconfigure techno-scientific processes to include substantive civic participation."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source:
+url_source: "https://www.acme-journal.org/index.php/acme/article/view/1236"
 url_video:
 
 # Featured image
