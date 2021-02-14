@@ -27,7 +27,7 @@ interests:
 education:
   courses:
   - course: PhD Candidate in Geography
-    institution: University 
+    institution: University of Kentucky
     year: 
   - course: MS in Environmental Studies
     institution: The College of Charleston
