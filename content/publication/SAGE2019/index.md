@@ -42,7 +42,7 @@ url_dataset:
 url_poster:
 url_project:
 url_slides:
-url_source: "https://uk.sagepub.com/en-gb/eur/the-sage-handbook-of-visual-research-methods/book250969#description"
+url_source: 
 url_video:
 
 # Featured image
