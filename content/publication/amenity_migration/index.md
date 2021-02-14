@@ -3,7 +3,7 @@
 
 title: "No (Back)Sliding: Amenity Migration, Viewsheds, and Contesting Steep Slope Ordinances in Western North Carolina"
 authors: [Jessica Breen, Patrick Hurley, Laura Taylor]
-date: 22016-01-01T22:30:48-05:00
+date: 2016-01-01T22:30:48-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,7 +17,7 @@ publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*A Comparative Politicial Ecology of Exurbia*. L Taylor and P Hurley, Eds. Springer"
-publication_short: ""
+publication_short: "A Comparative Politicial Ecology of Exurbia"
 
 abstract: ""
 
