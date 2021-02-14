@@ -97,7 +97,7 @@ address = {street = "817 Patterson Office Tower", city = "Lexington", region = "
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.0387715", longitude = "-84.5063977"},
+coordinates = {latitude = "38.0387715", longitude = "-84.5063977"}
 
 # Directions for visitors to locate you.
 directions = ""
